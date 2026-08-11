@@ -4,11 +4,11 @@ A web-based food donation management system developed using PHP,MySQL,HTML,CSS a
 
 A web-based food donation management system developed using PHP, MySQL, HTML, CSS, and JavaScript.
 
-## 📌 Project Overview
+## Project Overview
 
 The Food Donation Management System is a web-based application designed to help manage food donations efficiently. It provides a platform for managing food donation information and helps organize donation-related activities through a user-friendly interface.
 
-## 🚀 Features
+## Features
 
 * User registration and login
 * Food donation management
@@ -19,7 +19,7 @@ The Food Donation Management System is a web-based application designed to help 
 * Responsive web design
 * Organized management of donation information
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** PHP
@@ -27,7 +27,7 @@ The Food Donation Management System is a web-based application designed to help 
 * **Database Management:** phpMyAdmin
 * **Hosting:** AeonFree Hosting
 
-## 📂 Project Structure
+## Project Structure
 
 * `admin/` – Contains admin-related files
 * `images/` – Contains website images
@@ -40,13 +40,13 @@ The Food Donation Management System is a web-based application designed to help 
 
 The project is deployed on a free web hosting platform and can be accessed online.
 
-**Live Demo:** foodshare.hstn.me
+**Live Demo:** https://foodshare.hstn.me
 
-## 💻 Deployment
+## Deployment
 
 The project was deployed on a free web hosting platform with PHP and MySQL support. The required project files and database were configured on the hosting server to make the website accessible online.
 
-## 🎯 Project Purpose
+## Project Purpose
 
 This project was developed as an academic project to gain practical experience in:
 
@@ -57,6 +57,6 @@ This project was developed as an academic project to gain practical experience i
 * User and admin functionality
 * Website deployment and hosting
 
-## 👩‍💻 Developer
+## Developer
 
 **Sneha**
